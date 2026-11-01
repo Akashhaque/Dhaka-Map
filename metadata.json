@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka City Smart Map",
+  "description": "Interactive smart map and community information platform for Dhaka Metropolitan Area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

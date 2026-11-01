@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dhaka Map</string>
+    <string name="app_full_title">Dhaka City Smart Map</string>
+    <string name="app_tagline">Explore Dhaka. Stay Informed.</string>
+
+    <!-- Navigation -->
+    <string name="nav_map">Map</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_updates">Updates</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Map Screen -->
+    <string name="search_hint">Search places, roads in Dhaka…</string>
+    <string name="traffic_toggle">Traffic</string>
+    <string name="transit_toggle">Transit</string>
+    <string name="map_type">Map Type</string>
+    <string name="map_type_normal">Standard</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="current_location">My Location</string>
+    <string name="location_permission_needed">Location permission enables showing your position on the Dhaka map.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="dhaka_focus">Focus Central Dhaka</string>
+
+    <!-- Community & Reports -->
+    <string name="community_updates_title">Dhaka Community Updates</string>
+    <string name="submit_report">Report Incident</string>
+    <string name="verified_badge">Verified</string>
+    <string name="pending_badge">Under Review</string>
+
+    <!-- Directions & Navigation -->
+    <string name="directions">Directions</string>
+    <string name="open_google_maps_nav">Navigate with Google Maps</string>
+    <string name="distance_label">Distance</string>
+    <string name="duration_label">Estimated Time</string>
+</resources>
